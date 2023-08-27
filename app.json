@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "job_search",
-    "slug": "job_search"
+    "slug": "job_search",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "17dbd3c4-5c17-4793-a0e8-95d88634aeca"
+      }
+    },
+    "android": {
+      "package": "com.atharvad.job_search"
+    }
   }
 }
